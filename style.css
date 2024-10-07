@@ -17,11 +17,11 @@ h1, h2, h3 {
 
 a {
     text-decoration: none;
-    color: #0077cc;
+    color: #cc0066;
 }
 
 a:hover {
-    color: #005fa3;
+    color: #800260;
 }
 
 section {
@@ -33,14 +33,14 @@ section {
 .btn {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #0077cc;
+    background-color: #cc0066;
     color: white;
     border-radius: 5px;
     margin-top: 20px;
 }
 
 .btn:hover {
-    background-color: #005fa3;
+    background-color: #800260;
 }
 
 /* Header Styles */
@@ -72,7 +72,7 @@ header nav ul li a {
 
 /* Hero Section */
 #hero {
-    background: linear-gradient(to right, #0077cc, #005fa3);
+    background: linear-gradient(to right, #cc0066, #800260);
     color: white;
     text-align: center;
     padding: 100px 20px;
